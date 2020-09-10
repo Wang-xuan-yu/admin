@@ -1,4 +1,4 @@
-# admin
+# jy-mms
 
 ## Project setup
 ```
